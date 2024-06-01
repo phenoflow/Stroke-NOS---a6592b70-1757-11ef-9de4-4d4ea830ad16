@@ -110,8 +110,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: stroke-nos-puerperium---primary/output
-  vpersonal-stroke-nos---primary:
-    run: vpersonal-stroke-nos---primary.cwl
+  personal-stroke-nos---primary:
+    run: personal-stroke-nos---primary.cwl
     out:
     - output
     in:
@@ -131,7 +131,7 @@ steps:
         source: inputModule12
       potentialCases:
         id: potentialCases
-        source: vpersonal-stroke-nos---primary/output
+        source: personal-stroke-nos---primary/output
   stroke-nos-review---primary:
     run: stroke-nos-review---primary.cwl
     out:

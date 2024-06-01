@@ -33,7 +33,7 @@ inputModule10:
   path: python/stroke-nos-motor---primary.py
 inputModule11:
   class: File
-  path: python/vpersonal-stroke-nos---primary.py
+  path: python/personal-stroke-nos---primary.py
 inputModule12:
   class: File
   path: python/stroke-nos-indicator---primary.py
